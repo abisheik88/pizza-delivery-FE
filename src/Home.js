@@ -4,10 +4,10 @@ import logo from './step-1.jpg';
 import step2 from './step-2.jpg';
 import step3 from './step-3.jpg';
 import step4 from './step-4.jpg';
-import syed from './syed.png';
-import athil from './athil.png';
-import ruhaiz from './ruhaiz.png';
+import cally from './OIP (1).png';
+import John from './OIP.png';
 import home from './home-img.png';
+import office from './office.png'
 
 
 function Home() {
@@ -103,8 +103,8 @@ function Home() {
 <div class="box-container">
 
     <div class="box">
-    <img src={syed} alt="" />
-        <h3>Abdul</h3>
+    <img src={cally} alt="" />
+        <h3>Lucy</h3>
         <div class="stars">
             <i class="fas fa-star" style={{ color: "#FDCC0D"}}></i>
             <i class="fas fa-star" style={{ color: "#FDCC0D"}}></i>
@@ -115,8 +115,8 @@ function Home() {
         <p>The fastest way to search for great places to eat around you</p>
     </div>
     <div class="box">
-    <img src={athil} alt="" />
-        <h3>Mohamed athil</h3>
+    <img src={John} alt="" />
+        <h3>John Doe</h3>
         <div class="stars">
             <i class="fas fa-star" style={{ color: "#FDCC0D"}}></i>
             <i class="fas fa-star" style={{ color: "#FDCC0D"}}></i>
@@ -127,7 +127,7 @@ function Home() {
         <p>The ease of using the app. The UI of the app. Delivery services are amazing. Sending updates on your order is one of the finest thing </p>
     </div>
     <div class="box">
-    <img src={ruhaiz} alt="" />
+    <img src={office} alt="" />
         <h3>Ruhaiz</h3>
         <div class="stars">
             <i class="fas fa-star" style={{ color: "#FDCC0D"}}></i>
@@ -153,9 +153,9 @@ function Home() {
         <div class="box">
             <h3>locations</h3>
             <a href="#">Chennai</a>
-            <a href="#">Tirchy</a>
+            <a href="#">Trichy</a>
             <a href="#">Tirunelveli</a>
-            <a href="#">Kanyakumari</a>
+            <a href="#">Coimbatore</a>
             <a href="#">Madurai</a>
         </div>
 
@@ -169,21 +169,20 @@ function Home() {
 
         <div class="box">
             <h3>contact info</h3>
-            <a href="#">+91 7598974896</a>
-            <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hadhi3336@gmail.com">hadhi3336@gmail.com</a>
+            <a href="#">+91 9080676118</a>
+            <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abishekvijayarangan@gmail.com">abishekvijayarangan@gmail.com</a>
             <a href="https://en.wikipedia.org/wiki/Chennai">Chennai, India - 600000</a>
         </div>
 
         <div class="box">
             <h3>follow us</h3>
-            <a href="https://www.instagram.com/hadhi6592/">instagram</a>
-            <a href="https://www.linkedin.com/in/
-abdul-hadhi-460942216">linkedin</a>
+            <a href="https://www.instagram.com/abisheik_99/?igshid=ZDdkNTZiNTM%3D">instagram</a>
+            <a href="https://www.linkedin.com/in/abisheik-vijayarangan-49a753192/">linkedin</a>
         </div>
 
     </div>
 
-    <div class="credit"> copyright @ 2023 by <span>Abdul</span> </div>
+    <div class="credit"> copyright @ 2023 by <span>Abisheik</span> </div>
 
 </section>
 
