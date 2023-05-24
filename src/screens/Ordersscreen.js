@@ -63,7 +63,7 @@ export default function Ordersscreen() {
                     <hr />
                     <p>Order Amount : {order.orderAmount}</p>
                     <p>Date : {order.createdAt.substring(0, 10)}</p>
-                    <p>Transaction Id : {order.transactionId}</p>
+                    {/* <p>Transaction Id : {order.transactionId}</p> */}
                     <p>Order Id : {order._id}</p>
                   </div>
                 </div>
